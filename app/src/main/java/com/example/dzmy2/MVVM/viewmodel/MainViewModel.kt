@@ -4,7 +4,6 @@ import androidx.lifecycle.*
 import com.example.homework_2.utils.Connector
 import com.example.homework_2.StatusLoad
 import com.example.homework_2.MVVM.model.Response
-import com.example.homework_2.utils.MainApplication
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext

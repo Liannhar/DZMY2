@@ -4,9 +4,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
-import androidx.recyclerview.widget.RecyclerView
+
+import com.example.dzmy2.R
 import com.example.homework_2.MVVM.model.Response
-import com.example.homework_2.R
 
 
 class MainAdapter(

@@ -5,7 +5,7 @@ import android.view.Window
 import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
 import com.example.homework_2.MVVM.view.MainFragment
-import com.example.homework_2.R
+
 
 class MainActivity : AppCompatActivity()
 {

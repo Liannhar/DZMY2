@@ -5,8 +5,8 @@ import android.widget.ImageView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.example.dzmy2.R
 import com.example.homework_2.MVVM.model.Response
-import com.example.homework_2.R
 
 
 class FirstHolder(view: View): RecyclerView.ViewHolder(view)
